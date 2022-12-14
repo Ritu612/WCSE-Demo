@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T16:37:02 IST" name="Default suite" finished-at="2022-12-14T16:37:03 IST" duration-ms="202">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T16:37:02 IST" name="Default test" finished-at="2022-12-14T16:37:03 IST" duration-ms="202">
+      <class name="demo.Sample">
+        <test-method signature="samleTest()[pri:0, instance:demo.Sample@419c5f1a]" started-at="2022-12-14T16:37:03 IST" name="samleTest" finished-at="2022-12-14T16:37:03 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samleTest -->
+      </class> <!-- demo.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
